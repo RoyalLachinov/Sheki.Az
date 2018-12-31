@@ -1,0 +1,132 @@
+<resources>
+    <string name="app_name">Sheki city</string>
+
+    <!-- AdMob interstitial ad test unit IDs -->
+    <!--https://developers.google.com/admob/android/test-ads-->
+    <!--<string name="interstitial_ads_unit_id">ca-app-pub-3223347938013277/4930472023</string>-->
+    <!--<string name="banner_ad_unit_id">ca-app-pub-3223347938013277/9127903541</string>-->
+
+    <!--
+      Butun .xml fayllardaki AdView'larin unitId'sini deyishmemek ucun test id'lerini real id'ler ile deyisdim.
+      Amma production .apk ucun yuxaridaki real ads_unit_id'ler istifade olunmalidir
+      -->
+    <string name="interstitial_ads_unit_id">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+
+    <!--Main Page-->
+    <string name="ana_sehife">Ana səhifə</string>
+    <string name="sheki_haqqinda">Şəki haqqında</string>
+    <string name="icra_hakimmiyeti">İcra hakimiyyəti</string>
+    <string name="infrastructur">İnfrastrukturu</string>
+    <string name="tourism_center">Turizm mərkəzləri</string>
+    <string name="sheki_metbexi">Şəki mətbəxi</string>
+    <string name="user_location">Xəritədə  yeri</string>
+
+    <!--Share Adapter-->
+    <string name="whats_app">WhatsApp</string>
+    <string name="email">Email/Gmail</string>
+    <string name="messaging">Messaging</string>
+    <string name="bluetooth">Bluetooth</string>
+    <string name="others">Diger</string>
+
+    <!--Sheki About Culture Details-->
+    <string name="medeni_maarif">Şəkidə fəaliyyət göstərən mədəni-maarif müəssisələri haqqında \nM Ə L U M A T</string>
+    <string name="number">№</string>
+    <string name="office_name">Müəssisənin adı</string>
+    <string name="office_address">Ünvanı</string>
+    <string name="manager_name">Direktorun soyadı,adı və atasının adı</string>
+    <string name="office_phone">İş telefonu</string>
+
+    <!--Sheki Education Adapter-->
+    <string name="shcool_numbers">Məktəblərin nömrəsi</string>
+    <string name="shcool_address">Ünvanı</string>
+    <string name="shcool_manager">Direktorun soyadı,adı və atasının adı</string>
+    <string name="shcool_phone">İş telefonu</string>
+
+    <!--Sheki Education Detail-->
+    <string name="sheki_general_shcools">Şəki rayonu ümumi təhsil müəssisələri və internat məktəbi haqqında
+MƏLUMAT</string>
+
+     <!--Sheki Sport Details-->
+    <string name="sport_deails_info">Şəki rayonunun idman mərkəzləri haqqında\nMƏLUMAT</string>
+    <string name="sport_deails_number">№</string>
+    <string name="sport_deails_name">Idman müəssisəsinin adı</string>
+    <string name="sport_deails_address">Ünvanı</string>
+    <string name="sport_deails_manager">Direktorun adı, soyadı, atasının adı</string>
+    <string name="sport_deails_phone">İş telefonu</string>
+
+
+    <!--Sheki About Main Adapter-->
+    <string name="about"/>
+
+    <!--Sheki Agriculture Detail-->
+    <string name="agri_detail_info">2016-cı il 25 may tarixinə Şəki rayonunun kənd ərazi komissiyaları üzrə istehsalçıların sayı, əkin sahələri və onlara ödəniləcək yardımların məbləği barədə
+MƏLUMAT</string>
+    <string name="agri_detail_ss">S/S</string>
+    <string name="agri_detail_name">Kənd ərazi komissiyasının adı</string>
+    <string name="agri_detail_count">İstehsalçıların sayı</string>
+    <string name="agri_detail_area">Cəmi becərilən əkin sahəsi (ha)</string>
+    <string name="agri_detail_grain">Buğda</string>
+    <string name="agri_detail_corn">Qarğıdalı</string>
+    <string name="agri_detail_cotton">Pambıq</string>
+    <string name="agri_detail_potetos">Kartof</string>
+    <string name="agri_detail_vegetables">Tərəvəz</string>
+    <string name="agri_detail_grape">Üzüm</string>
+    <string name="agri_detail_others">Digər əkinlər</string>
+    <string name="agri_detail_grant">Veriləcək yardımların cəmi məbləği (manatla)</string>
+
+    <!--Sheki Medicine Details-->
+    <string name="medicine_info">Şəki rayonunun səhiyyə müəssisələri haqqında\nMƏLUMAT</string>
+    <string name="medicine_number">Xəstəxananın nömrəsi</string>
+    <string name="medicine_name">Xəstəxananın adı</string>
+    <string name="medicine_address">Ünvan</string>
+    <string name="medicine_doctor_name">Baş həkimin adı,soyadı,atasının adı</string>
+    <string name="medicine_office_phone">Telefon №-si</string>
+
+    <!--Sheki citizen-->
+    <string name="citizen_accept">Vətəndaşların qəbulu</string>
+    <string name="citizen_accept_days">Qəbul günləri</string>
+    <string name="citizen_accept_name">Qəbul edənin adı, soyadı</string>
+    <string name="citizen_accept_position">Qəbul edənin vəzifəsi</string>
+    <string name="citizen_accept_hours">Qəbul saatları</string>
+    <string name="citizen_accept_note">Qeyd:\n
+
+Şəki ŞİHBA-nın şöbə müdirləri bütün iş günləri ərzində vətəndaşları qəbul edirlər.\n
+Milli Qəhraman və onların ailə üzvləri, şəhid ailə üzvləri, Qarabağ müharibəsi əlilləri və digər imtiyazlı şəxslər Şəki Şəhər İcra Hakimiyyətində müraciət etdikdə dərhal qəbul edilirlər.\n
+Şəki Şəhər İcra Hakimiyyəti başçısının qəbulu günləri bayram günlərinə düşdükdə və ya hər hansı bir səbəbdən qəbulun keçirilməsi mümkün olmadıqda qəbul növbəti iş gününə keçirilir.\n
+Qəbulla bağlı əlaqə telefonları: (024) 244-25-25, (024) 244-27-27, (024) 244-26-43\n</string>
+
+    <!--Sheki Administration Deligte-->
+    <string name="admin_deligates">Nümayəndəliklər</string>
+    <string name="admin_positions">Vəzifələr</string>
+    <string name="admin_names">Dövlət qulluqçusunun adı və soyadı</string>
+    <string name="admin_phones">İş telefonu</string>
+
+<!--Sheki Administration Structure-->
+    <string name="structure">Aparatın strukturu</string>
+    <string name="structure_positions">Struktur bölmələr və vəzifələr</string>
+    <string name="structure_names">Dövlət qulluqçusunun adı və soyadı</string>
+    <string name="structure_phones">İş telefonu</string>
+
+    <!--Sheki Administration Municipility-->
+    <string name="municipility_offices">Bələdiyyələr</string>
+    <string name="municipility_position">Vəzifə</string>
+    <string name="municipility_names">Soyadı, Adı, Atasının adı</string>
+    <string name="municipility_phones">Telefon №-si</string>
+
+    <!--Sheki Banks Details-->
+    <string name="banks_info">Banklar\nŞəkidə fəaliyyət göstərən bank və bank olmayan kredit təşkilatlarının filialları haqqında məlumat</string>
+    <string name="banks_names">Soyadı, Adı, Atasının adı</string>
+    <string name="banks_positions">Vəzifə</string>
+    <string name="banks_phones">Telefon №-si</string>
+
+    <!--Sheki Postoffice Detail-->
+    <string name="postoffice_info">Poçt və Rabitə</string>
+    <string name="postoffice_names">Soyadı, Adı, Atasının adı</string>
+    <string name="postoffice_positions">Vəzifə</string>
+    <string name="postoffice_phones">Telefon №-si</string>
+
+    <!--Sheki Tourism Adapter-->
+    <string name="tourism_head">Head</string>
+    <string name="tourism_about">About</string>
+</resources>
