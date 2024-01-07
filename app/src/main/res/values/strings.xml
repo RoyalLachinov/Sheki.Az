@@ -47,7 +47,7 @@
     <string name="sheki_general_shcools">Şəki rayonu ümumi təhsil müəssisələri və internat məktəbi haqqında
 MƏLUMAT</string>
 
-     <!--Sheki Sport Details-->
+    <!--Sheki Sport Details-->
     <string name="sport_deails_info">Şəki rayonunun idman mərkəzləri haqqında\nMƏLUMAT</string>
     <string name="sport_deails_number">№</string>
     <string name="sport_deails_name">Idman müəssisəsinin adı</string>
@@ -57,7 +57,7 @@ MƏLUMAT</string>
 
 
     <!--Sheki About Main Adapter-->
-    <string name="about"/>
+    <string name="about" />
 
     <!--Sheki Agriculture Detail-->
     <string name="agri_detail_info">2016-cı il 25 may tarixinə Şəki rayonunun kənd ərazi komissiyaları üzrə istehsalçıların sayı, əkin sahələri və onlara ödəniləcək yardımların məbləği barədə
@@ -102,7 +102,7 @@ Qəbulla bağlı əlaqə telefonları: (024) 244-25-25, (024) 244-27-27, (024) 2
     <string name="admin_names">Dövlət qulluqçusunun adı və soyadı</string>
     <string name="admin_phones">İş telefonu</string>
 
-<!--Sheki Administration Structure-->
+    <!--Sheki Administration Structure-->
     <string name="structure">Aparatın strukturu</string>
     <string name="structure_positions">Struktur bölmələr və vəzifələr</string>
     <string name="structure_names">Dövlət qulluqçusunun adı və soyadı</string>
@@ -129,4 +129,15 @@ Qəbulla bağlı əlaqə telefonları: (024) 244-25-25, (024) 244-27-27, (024) 2
     <!--Sheki Tourism Adapter-->
     <string name="tourism_head">Head</string>
     <string name="tourism_about">About</string>
+    <string name="title_activity_landing">LandingActivity</string>
+
+
+    <string name="title_home">Ana səhifə</string>
+    <string name="title_about">Rayon haqqında</string>
+    <string name="title_administration">İcra Hakimiyyəti</string>
+    <string name="title_infrustructure">İnfrastrukturu</string>
+    <string name="title_tourism">Turizm mərkəzləri</string>
+    <string name="title_kitchen">Şəki mətbəxi</string>
+    <string name="title_more">More</string>
+
 </resources>

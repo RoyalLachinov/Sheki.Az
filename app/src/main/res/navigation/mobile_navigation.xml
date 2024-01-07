@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_home">
+
+    <fragment
+        android:id="@+id/navigation_home"
+        android:name="main.MapFragment"
+        android:label="@string/title_home"
+        tools:layout="@layout/fragment_menu" />
+
+    <fragment
+        android:id="@+id/navigation_information"
+        android:name="about.AboutMainFragment"
+        android:label="@string/title_about" />
+
+    <fragment
+        android:id="@+id/navigation_administration"
+        android:name="administration.AdministrationMainFragment"
+        android:label="@string/title_administration" />
+
+    <fragment
+        android:id="@+id/navigation_infrustructure"
+        android:name="infrastructure.InfrastrucutreFragment"
+        android:label="@string/title_infrustructure"
+        tools:layout="@layout/fragment_listview" />
+
+    <fragment
+        android:id="@+id/navigation_more"
+        android:name="more.MoreFragment"
+        android:label="More" />
+
+    <fragment
+        android:id="@+id/navigation_tourism"
+        android:name="tourism.TourismMainPage"
+        android:label="Tourism" />
+
+    <fragment
+        android:id="@+id/navigation_kitchen"
+        android:name="kitchen.MainKitchenFragment"
+        android:label="Kitchen" />
+
+    <fragment
+        android:id="@+id/navigation_about_detail"
+        android:name="about.AboutDetailsFragment"
+        android:label="AboutDetails" />
+
+    <fragment
+        android:id="@+id/navigation_agriculture_detail"
+        android:name="about.AgriCultureDetailsFragment"
+        android:label="Agriculture" />
+
+    <fragment
+        android:id="@+id/navigation_education_detail"
+        android:name="about.EducationDetailFragment"
+        android:label="EducationDetail" />
+
+    <fragment
+        android:id="@+id/navigation_culture_detail"
+        android:name="about.CultureDetailsFragment"
+        android:label="CultureDetails" />
+
+    <fragment
+        android:id="@+id/navigation_medical_detail"
+        android:name="about.MedicalDetailsFragment"
+        android:label="MedicalDetails" />
+
+    <fragment
+        android:id="@+id/navigation_sport_detail"
+        android:name="about.SportDetailsFragment"
+        android:label="SportDetails" />
+
+    <fragment
+        android:id="@+id/navigation_structure_detail"
+        android:name="administration.StructureDetailFragment"
+        android:label="StructureDetail" />
+
+    <fragment
+        android:id="@+id/navigation_delegation_detail"
+        android:name="administration.DelegationDetailFragment"
+        android:label="DelegationDetail" />
+
+    <fragment
+        android:id="@+id/navigation_municipality_detail"
+        android:name="administration.MunicipalityDetailFragment"
+        android:label="MunicipalityDetail" />
+
+    <fragment
+        android:id="@+id/navigation_citizen_accept_detail"
+        android:name="administration.CitizenAcceptDetailsFragment"
+        android:label="CitizenAcceptDetails" />
+
+    <fragment
+        android:id="@+id/navigation_post_office_detail"
+        android:name="infrastructure.PostOfficesDetailsFragment"
+        android:label="PostOfficesDetails" />
+
+    <fragment
+        android:id="@+id/navigation_bank_detail"
+        android:name="infrastructure.BanksDetailsFragment"
+        android:label="BanksDetails" />
+
+</navigation>

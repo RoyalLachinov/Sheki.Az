@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_home"
+        android:title="@string/title_home" />
+
+    <item
+        android:id="@+id/navigation_information"
+        android:icon="@drawable/ic_information"
+        android:title="@string/title_about" />
+
+    <item
+        android:id="@+id/navigation_administration"
+        android:icon="@drawable/ic_administration"
+        android:title="@string/title_administration" />
+
+    <item
+        android:id="@+id/navigation_infrustructure"
+        android:icon="@drawable/ic_infrastructur"
+        android:title="@string/title_infrustructure" />
+
+    <item
+        android:id="@+id/navigation_more"
+        android:icon="@drawable/ic_tourism"
+        android:title="@string/title_more" />
+
+    <!--<item
+        android:id="@+id/navigation_metbex"
+        android:icon="@drawable/metbex"
+        android:title="@string/title_kitchen" />-->
+
+</menu>
