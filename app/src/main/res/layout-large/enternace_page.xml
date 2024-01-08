@@ -9,10 +9,7 @@
         android:layout_height="0dp"
         android:layout_weight="0.7"
         android:background="#F2F2F2"
-        android:orientation="horizontal">
-
-
-    </LinearLayout>
+        android:orientation="horizontal"/>
 
     <ImageView
         android:id="@+id/imgXansarayi"
@@ -27,8 +24,5 @@
         android:layout_height="0dp"
         android:background="#F2F2F2"
         android:layout_weight="0.7"
-        android:orientation="horizontal">
-
-
-        </LinearLayout>
+        android:orientation="horizontal"/>
 </LinearLayout>

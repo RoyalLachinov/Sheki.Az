@@ -9,7 +9,7 @@ android {
         applicationId = "az.com.sheki"
         minSdk = 21
         targetSdk = 34
-        versionCode = 19
+        versionCode = 20
         versionName = "2.1.1"
         multiDexEnabled = true
     }

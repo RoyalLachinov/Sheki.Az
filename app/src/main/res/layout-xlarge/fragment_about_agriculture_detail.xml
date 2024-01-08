@@ -15,7 +15,7 @@
         android:textSize="32sp"
         android:textStyle="bold"/>
 
-    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:orientation="horizontal"
@@ -177,7 +177,6 @@
             android:textSize="26sp"
             android:textStyle="bold"/>
     </LinearLayout>
-
 
         <ListView
             android:layout_width="match_parent"
